@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    background: #2b5172;
+    width: 500px;
+    display: inline-block;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 20px;
+    padding: 10px;
+}
